@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto FocusTimer 2.0 realizado como desafio dentro do programa Explorer da Rocketseat. Foi utilizado conceitos como: Flexbox, CSS Grid, variáveis no CSS, unidade de medida relativa (rem), manipulação de DOM, ES6 Module, objetos, eventos, arrays, condicionais, função, função callback, arrow function, entre outros.
 
-
+<a href="https://guidenardideveloper.github.io/focustimer2.0/?" target="_blank">Clique aqui para visualizar</a>
 
 ## :memo: Licença
 
